@@ -1,18 +1,16 @@
-# New-York-City-Taxi-Trip-Duration
-Building a model that predicts the total ride duration of taxi trips in New York City
+# Нью-Йорк-Город-Такси-Продолжительность поездки
+Построение модели, которая предсказывает общую продолжительность поездок на такси в Нью-Йорке
 
-**Business task:** determine the characteristics and use them to predict the duration of a taxi ride.
+** Бизнес-задача:** определить характеристики и использовать их для прогнозирования продолжительности поездки на такси.
 
-**A technical task for a specialist in Data Science:** build a machine learning model that, based on the proposed characteristics of the client, will predict a numerical feature - the time of a taxi ride. That is, to solve the regression problem.
+**Техническое задание для специалиста в области Data Science:** построить модель машинного обучения, которая на основе предложенных характеристик клиента будет прогнозировать числовой признак - время поездки на такси. То есть решить регрессионную задачу.
 
-**The main objectives of the project:**
-1. To generate a dataset based on several sources of information
-2. Design new features using Feature Engineering and identify the most significant ones when building a model
-3. Examine the data provided and identify patterns
-4. Build several models and choose the best one according to a given metric.
-5. Design a process for predicting travel time for new data
-   
+**Основные цели проекта:**
+1. Сгенерировать набор данных на основе нескольких источников информации
+2. Спроектировать новые функции с помощью Feature Engineering и определить наиболее значимые из них при построении модели
+3. Изучить предоставленные данные и выявить закономерности
+4. Построить несколько моделей и выбрать лучшую в соответствии с заданным показателем.
+5. Разработайте процесс прогнозирования времени в пути для новых данных
+ 
 
-### Link to competition on Kaggle, which I was solving in this project: [New York City Taxi Trip Duration](https://www.kaggle.com/competitions/nyc-taxi-trip-duration)
-
-### Link to datasets I was using: [Data](https://drive.google.com/drive/folders/1WbqMN2vvssTmuLB_fO46pRZt83yCk8Zl?usp=sharing)
+### Ссылка на конкурс на Kaggle, который я решал в этом проекте: [Продолжительность поездки на такси в Нью-Йорке](https://www.kaggle.com/competitions/nyc-taxi-trip-duration)
